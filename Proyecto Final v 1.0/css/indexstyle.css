@@ -1,0 +1,48 @@
+#topage {
+	background-image:url("../img/vector-yellow-abstract-background.jpg");
+	background-position:center;
+	background-size:100%;
+	box-shadow:0 8px 5px -5px black;
+	height:150px;
+}
+
+.divheader {
+	display:flex;
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-moz-box;
+	display:-ms-flexbox;
+	display:box;
+	margin:20px;
+}
+
+.logo {
+	position:absolute;
+	margin:20px;
+}
+
+.titleheader {
+	position:absolute;
+	margin-top:50px;
+}
+
+.typesearch {
+	position:absolute;
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.searchbutton {
+	position:absolute;
+	margin-top:20px;
+}
+
+.chango {
+	position:absolute;
+	right:20px;
+}
+
+.wrapper {
+	display:grid;
+}
